@@ -1,6 +1,6 @@
 # MY_PAINT
 EPITECH first year project, part of B2-C Graphical Programming: my_paint (2023)                                  
-2 student - 3 weeks 
+1 student - 4 weeks 
 
 Result : **TA 50%**                      
          **TAM 33/31**
